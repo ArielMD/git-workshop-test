@@ -6,3 +6,4 @@ public class Alumn{
 		//code here
 	}
 }
+
